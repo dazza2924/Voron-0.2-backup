@@ -1,9 +1,8 @@
-.env
-secrets.conf
+
 *.swp
 *.tmp
 printer-[0-9]*_[0-9]*.cfg
-cartographer-klipper.bak
+*.bak
 *.bkp
 *.csv
 *.zip
